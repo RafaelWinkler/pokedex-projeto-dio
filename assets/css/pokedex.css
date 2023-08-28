@@ -7,76 +7,77 @@
 }
 
 .normal {
-  background-color: #a6a877;
+   background: linear-gradient(to right, #a4a4a4 ,  #bdbdbd, #d7d5d5);
 }
 
-.grass {
-  background-color: #77c850;
+.grass{
+    background: linear-gradient(to right, #05d821 ,  #27e721, #4cf946);
 }
 
-.fire {
-  background-color: #ee7f30;
+.fire{
+    background: linear-gradient(to right, #ff3700 ,  #fb8338, #fd9731);
 }
 
-.water {
-  background-color: #678fee;
+.water{
+    background: linear-gradient(to right, #6bf1f6 ,  #8aeef4, #c5f6f6);
 }
 
-.electric {
-  background-color: #f7cf2e;
+.electric{
+    background: linear-gradient(to right, #eefa06 ,  #edf643, #edf469);
 }
 
-.ice {
-  background-color: #98d5d7;
+.ice{
+    background: linear-gradient(to right, #039397 ,  #31ede4, #98d5d7);
 }
 
-.ground {
-  background-color: #dfbf69;
+.ground{
+    background: linear-gradient(to right, #9b7306 ,  #cfa021, #dfbf69);
 }
 
-.flying {
-  background-color: #a98ff0;
+.flying{
+    background: linear-gradient(to right, #090ff0 ,  #2d9dff, #5fb0f3);
 }
 
-.poison {
-  background-color: #a040a0;
+.poison{
+    background: linear-gradient(to right, #c628ea ,  #d85df3, #e898fa);
 }
 
-.fighting {
-  background-color: #bf3029;
+.fighting{
+    background: linear-gradient(to right, #b1111c ,  #f72533, #ef8d8d);
 }
 
-.psychic {
-  background-color: #f65687;
+.psychic{
+    background: linear-gradient(to right, #f966de ,  #fa7ae3, #fbabed);
 }
 
-.dark {
-  background-color: #725847;
+.dark{
+    background: linear-gradient(to right, #2a2b2b ,  #3e3f3f, #6e6e6e);
 }
 
-.rock {
-  background-color: #b8a137;
+.rock{
+    background: linear-gradient(to right, #4d4215 ,  #907e36, #baa75b);
 }
 
-.bug {
-  background-color: #a8b720;
+.bug{
+    background: linear-gradient(to right, #a0d616 ,  #bcf235, #a7f652);
 }
 
-.ghost {
-  background-color: #6e5896;
+.ghost{
+    background: linear-gradient(to right, #5a2f6f ,  #a357c9, #c675f5);
 }
 
-.steel {
-  background-color: #b9b7cf;
+.steel{
+    background: linear-gradient(to right, #514354 ,  #babdbd, #f5f5f5);
 }
 
-.dragon {
-  background-color: #6f38f6;
+.dragon{
+    background: linear-gradient(to right, #6f38f6 ,  #7f4ff9, #9b76f8);
 }
 
-.fairy {
-  background-color: #f9aec7;
+.fairy{
+    background: linear-gradient(to right, #f934e5 ,  #fa58ea, #f17ee5);
 }
+
 
 .pokemon {
   display: flex;

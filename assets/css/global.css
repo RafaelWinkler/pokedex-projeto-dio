@@ -6,19 +6,19 @@ h1 {
   font-size: 24px;
   font-weight: bold;
   text-align: center;
-  color: #333;
+  color: #fff;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 body {
-  background-color: #f6f8fc;
+  background-color: #000000d6;
 }
 
 .content {
   width: 100vw;
   height: 100vh;
   padding: 1rem;
-  background-color: #ffffff;
+  background-color: #000000d6;
 
 }
 
